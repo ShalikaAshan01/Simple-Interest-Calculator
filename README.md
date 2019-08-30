@@ -1,6 +1,6 @@
-# interest_calculator
+# Simple Interest Calculatro
 
-A new Flutter project.
+My very first Flutter project.
 
 ## Getting Started
 
